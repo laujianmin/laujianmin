@@ -29,6 +29,7 @@
 <!-- Github Stars -->
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
 <!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=dark&hide_border=true" >
 </p>
 
 
