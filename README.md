@@ -28,7 +28,7 @@
 <!-- Github Stars -->
 <img width="40%" height="130" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
 <!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
-<img width="25%" height="130" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=tokyonight&hide_border=true" >
+<img  height="130" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=tokyonight&hide_border=true" >
 </p>
 
 
