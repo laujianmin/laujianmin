@@ -23,13 +23,23 @@
 <!-- Visit Count -->
 <!--![Visitor Count](https://profile-counter.glitch.me/laujianmin/count.svg)-->
 
+<!--  Open Source Projects -->
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/laujianmin/Template_for_a_Dissertation_of_FJNU"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=laujianmin&repo=Template_for_a_Dissertation_of_FJNU&theme=react&border_color=61dafb&border_radius=10" alt="readme-typing-svg"></a>
+  
+  </p>
+
+<p align="center">
 <!-- Top Langs -->
 <!--
 [![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin)](https://github.com/laujianmin/github-readme-stats)  
 -->
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">](https://github.com/laujianmin/github-readme-stats)
-
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">
 <!-- Github Stars -->
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
+<img  src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
 <!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
+</p>
