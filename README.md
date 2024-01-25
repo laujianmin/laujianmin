@@ -26,7 +26,7 @@
 -->
 <img width="300" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact&theme=tokyonight">
 <!-- Github Stars -->
-<img width="300"  height="110" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
+<img width="250"  height="110" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
 <!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
 <img  width="300" height="110" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=tokyonight&hide_border=true" >
 </p>
