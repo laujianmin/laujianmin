@@ -45,4 +45,4 @@
 
 
 <!--  Github Contribution Grid Snake -->
-![](https://raw.githubusercontent.com/laujianmin/laujianmin/main/assets/github-contribution-grid-snake.gif)          
+<!--  ![](https://raw.githubusercontent.com/laujianmin/laujianmin/main/assets/github-contribution-grid-snake.gif)  -->         
