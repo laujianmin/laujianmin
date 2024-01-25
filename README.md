@@ -1,5 +1,14 @@
+<style>
+    body {
+        background-image: url("https://github.com/laujianmin/laujianmin/assets/background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=laujianmin.laujianmin">
 <div align="center">
-<img src="https://github.com/laujianmin/laujianmin/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://github.com/laujianmin/laujianmin/assets/" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
@@ -34,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Visit Count -->
-![Visitor Count](https://profile-counter.glitch.me/laujianmin/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/laujianmin/count.svg)-->
 
 <!-- Top Langs -->
 <!--
