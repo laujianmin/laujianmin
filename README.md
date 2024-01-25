@@ -22,14 +22,14 @@
 
 <p align="center">
 <!-- Top Langs -->
-<!--
+<!-- width="40%"
 [![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin)](https://github.com/laujianmin/github-readme-stats)  
 -->
-<img height="150" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">
+<img  height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact&theme=tokyonight">
 <!-- Github Stars -->
-<img height="150" width="30%" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
+<img  height="130" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
 <!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
-<img height="150" width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=dark&hide_border=true" >
+<img  height="130" src="https://github-readme-streak-stats.herokuapp.com?user=laujianmin&theme=tokyonight&hide_border=true" >
 </p>
 
 
