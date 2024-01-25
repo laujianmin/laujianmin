@@ -1,14 +1,14 @@
 <div align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=laujianmin.laujianmin">
 <img src="https://github.com/laujianmin/laujianmin/blob/458529f5bea78ce08c333c0c8ea62dd79549b241/assets/c7410161d2fd9a757167305c896cca7b.jpeg" width="20%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Jianmin+Liu%2C+Aspire+to+be+a+tech+geek+and+been+freedom.+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💼 Master Degree @ FJNU • Student • Cyber Security
     💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    📖 Machine Learning • Distributed systems • Federated Learning
+    🎮 Music • Games • Photography • Code • Art
+    🐾 Barbecue 🍖 • Beer 🍻 • Fried Skewers 🥓 • Desert 🏜️ • Camping 🏕️
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
