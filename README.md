@@ -20,8 +20,18 @@
 </div>
 
 
-<!-- Visit Count -->
-<!--![Visitor Count](https://profile-counter.glitch.me/laujianmin/count.svg)-->
+<p align="center">
+<!-- Top Langs -->
+<!--
+[![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin)](https://github.com/laujianmin/github-readme-stats)  
+-->
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">
+<!-- Github Stars -->
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
+<!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
+</p>
+
+
 
 <!--  Open Source Projects -->
 <details open> 
@@ -33,13 +43,3 @@
   
   </p>
 
-<p align="center">
-<!-- Top Langs -->
-<!--
-[![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin)](https://github.com/laujianmin/github-readme-stats)  
--->
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">
-<!-- Github Stars -->
-<img  src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
-<!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
-</p>
