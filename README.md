@@ -14,8 +14,8 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-[![](https://img.shields.io/badge/GoogleScholar-8A2BE2)](https://scholar.google.com/citations?user=zigGlzAAAAAJ&hl=en)
 [![](https://img.shields.io/badge/HomaPage-6364ff)](https://laujianmin.github.io/)
+[![](https://img.shields.io/badge/GoogleScholar-8A2BE2)](https://scholar.google.com/citations?user=zigGlzAAAAAJ&hl=en)
 [![](https://img.shields.io/badge/Mail-ff66ab)](mailto://laujianmin@foxmail.com)
 </div>
 
