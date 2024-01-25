@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/Mail-ff66ab)](mailto://laujianmin@foxmail.com)
 </div>
 
+![](https://raw.githubusercontent.com/laujianmin/laujianmin/main/assets/github-contribution-grid-snake.svg)              
 
 <p align="center">
 <!-- Top Langs -->
