@@ -27,8 +27,9 @@
 <!--
 [![Top Langs1](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin)](https://github.com/laujianmin/github-readme-stats)  
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">
-[![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact)](https://github.com/laujianmin/github-readme-stats)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laujianmin&layout=compact">](https://github.com/laujianmin/github-readme-stats)
+
 
 <!-- Github Stars -->
-![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight">
+<!-- ![Laujianmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laujianmin&show_icons=true&theme=tokyonight)-->
