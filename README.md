@@ -47,7 +47,7 @@
 <!--  Github Contribution Grid Snake -->
 <!--  ![](https://raw.githubusercontent.com/laujianmin/laujianmin/main/assets/github-contribution-grid-snake.gif)  -->         
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jinming6/Jinming6/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jinming6/Jinming6/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/Jinming6/Jinming6/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laujianmin/laujianmin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laujianmin/laujianmin/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/laujianmin/laujianmin/output/github-contribution-grid-snake.svg" />
 </picture>
